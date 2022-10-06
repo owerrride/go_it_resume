@@ -1,0 +1,167 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background: #E5E5E5;
+
+}
+
+.backgroud {
+    position: absolute;
+    width: 1200px;
+    min-height: 1319px;
+    left: 132px;
+    top: 123px;
+    background: #FFFFFF;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    z-index: -1;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+aside {
+    background-color: #1E2939;
+    min-width: 370px;
+    padding-top: 40px;
+}
+
+.photo {
+    width: 100%;
+}
+
+.side {
+    margin-left: 40px;
+}
+
+.info {
+    margin-left: 88px;
+    margin-top: 19px;
+    padding: 100px 90px;
+}
+
+
+.contacts {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+
+.contacts span {
+    font-size: 14px;
+}
+
+.contacts a {
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    opacity: 0.5;
+}
+
+aside {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.skills {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.sskills {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.developer h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.developer h1 {
+    font-size: 25px;
+}
+
+.developer p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+.header {
+    margin-top: 51px;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.projects ol {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.projects a {
+    text-decoration: none;
+    color: #595959;;
+}
+
+.subheader {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.subheader span {
+    color: #FB6D3A;
+}
+
+.dates {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.test {
+    width: 509px;
+}
+
+.orange {
+    color: #FB6D3A;
+}
+
+.education {
+    margin-top: 43px;
+}
+.education h4 {
+    font-size: 14px;
+}
